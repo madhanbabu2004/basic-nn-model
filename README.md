@@ -133,3 +133,4 @@ ai_brain.predict(X_n1_1)
 ![output](./c.png)
 
 ## RESULT
+Thus we Developing a Neural Network Regression Model
