@@ -50,9 +50,10 @@ Plot the performance plot
 Evaluate the model with the testing data.
 
 ## PROGRAM
-## DEVOLOPED BY : MADHAN BABU P
-## REGISTER NUMBER : 212222230075
 ```
+DEVOLOPED BY : MADHAN BABU P
+REGISTER NUMBER : 212222230075
+
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import MinMaxScaler
